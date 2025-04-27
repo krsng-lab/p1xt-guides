@@ -53,7 +53,7 @@ The goal of Tier 1 is to gain a robust foundational knowledge of web development
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
 | [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)                                                                         |        |          |
 | [The Odin Project Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript)                                                                         |        |          |
-| [Project: Profile card component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)                                                                 |        |          |
+| [Project: Profile card component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)                                                                 |   1    |          |
 | [Project: Social links profile](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)                                                                    |        |          |
 | [Project: NFT preview card component](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)                                                         |        |          |
 | [Project: Order summary component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)                                                               |        |          |
